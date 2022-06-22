@@ -181,4 +181,45 @@ body {
   /* #FFFFFF */
   color: #FFFFFF;
   opacity: 0.8;
+}
+
+.block {
+  display: flex;
+  flex-direction: row;
+  width: 1150px;
+  margin: 0% auto;
+  padding-top: 115px;
+}
+
+.setting {
+  margin: 0% auto;
+  padding-left: 130px;
+}
+
+.label {
+  padding-top: 25px;
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 150%;
+  /* identical to box height, or 33px */
+  text-align: center;
+  text-transform: uppercase;
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.caption {
+  padding-top: 10px;
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  text-align: center;
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.8;
 }/*# sourceMappingURL=style.css.map */
