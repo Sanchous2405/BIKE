@@ -1,0 +1,27 @@
+.head {
+    padding-top: 101px;
+    margin: 0% auto;
+}
+.title {
+    width: 980px;
+    font-family: 'Barlow Semi Condensed';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 120px;
+    line-height: 100%;
+    /* or 120px */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.25) 170.62%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+
+}
+.bike {
+    padding-top: 86px;
+}

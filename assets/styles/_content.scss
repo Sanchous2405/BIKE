@@ -1,0 +1,54 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 0% auto;
+    width: 1077px;
+}
+.picture {
+    padding-top: 127px;
+    padding-left: 180px;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-top: 185px;
+    padding-left: 100px;
+}
+.full-title {
+    font-family: 'Barlow Semi Condensed';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 130%;
+    /* or 40px */
+
+    text-transform: uppercase;
+
+    /* #FFFFFF */
+
+    color: #FFFFFF;
+
+}
+.txt {
+    padding-top: 30px;
+    font-family: 'Barlow Semi Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    /* or 26px */
+
+
+    /* #FFFFFF */
+
+    color: #FFFFFF;
+
+    opacity: 0.8;
+}
+.touch {
+}
+.btn {
+}
+.open {
+}
