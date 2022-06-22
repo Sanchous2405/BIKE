@@ -170,6 +170,8 @@ body {
 }
 
 .text {
+  width: 634px;
+  margin: 0% auto;
   padding-top: 25px;
   font-family: "Barlow Semi Condensed";
   font-style: normal;
@@ -189,6 +191,20 @@ body {
   width: 1150px;
   margin: 0% auto;
   padding-top: 115px;
+}
+
+.block1 {
+  display: flex;
+  flex-direction: row;
+  width: 1150px;
+  margin: 0% auto;
+  padding-top: 115px;
+}
+
+.sqard:hover {
+  height: 200px;
+  background: #212122;
+  opacity: 0.5;
 }
 
 .setting {
