@@ -1,0 +1,76 @@
+.service {
+    width: 100%;
+    margin: 0% auto;
+    display: flex;
+    flex-direction: row;
+    padding-top: 312px;
+    padding-left: 220px;
+}
+.service__checklist {
+    width: 558px;
+    display: flex;
+    flex-direction: column;
+}
+.service__info {
+}
+.service__title {
+    font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 31px;
+line-height: 130%;
+/* or 40px */
+
+text-transform: uppercase;
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+}
+.service__text {
+    font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+
+opacity: 0.8;
+}
+.service__list {
+    padding-top: 30px;
+
+}
+.service__group {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Barlow Semi Condensed';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 160%;
+/* identical to box height, or 32px */
+
+
+/* #FFFFFF */
+
+color: #FFFFFF;
+
+opacity: 0.8;
+}
+.service__check {
+    padding-left: 11px;
+}
+.touch {
+}
+.btn {
+}
+.open {
+}
+.service__photo {
+}
