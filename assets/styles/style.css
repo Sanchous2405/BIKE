@@ -339,4 +339,71 @@ body {
   /* #FFFFFF */
   color: #FFFFFF;
   opacity: 0.8;
+}
+
+.response {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding-top: 165px;
+  padding-left: 200px;
+}
+
+.response__client {
+  padding-top: 270px;
+  display: flex;
+  flex-direction: column;
+}
+
+.response__position {
+  display: flex;
+  flex-direction: row;
+}
+
+.response__girls {
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.response__name {
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 160%;
+  /* identical to box height, or 29px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.response__post {
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 160%;
+  /* or 22px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+.response__info {
+  padding-top: 32px;
+  font-family: "Barlow Semi Condensed";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+  /* or 29px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+.response__button {
+  display: flex;
+  flex-direction: row;
+  padding-top: 90PX;
 }/*# sourceMappingURL=style.css.map */
