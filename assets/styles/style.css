@@ -299,4 +299,44 @@ body {
 
 .service__check {
   padding-left: 11px;
+}
+
+.ride {
+  width: 100%;
+  margin: 0% auto;
+  display: flex;
+  flex-direction: row;
+  padding-top: 240px;
+  padding-left: 240px;
+}
+
+.ride__info {
+  padding-left: 80px;
+  width: 510px;
+}
+
+.ride__title {
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+  line-height: 130%;
+  /* or 40px */
+  text-transform: uppercase;
+  /* #FFFFFF */
+  color: #FFFFFF;
+}
+
+.ride__txt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: "Barlow Semi Condensed";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+  /* #FFFFFF */
+  color: #FFFFFF;
+  opacity: 0.8;
 }/*# sourceMappingURL=style.css.map */
